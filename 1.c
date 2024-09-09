@@ -13,3 +13,8 @@ int main() {
     }
     return 0;
 }
+
+/*
+1. WAP to input four values a, b, c and d from user and evaluate the ratio of (a-b) to (c-d)
+and print the result if c-d is not equal to zero.
+*/

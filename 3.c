@@ -66,3 +66,8 @@ int main() {
     }
     return 0;
 }
+
+/*
+3. Write a menu driven program to create a simple calculator in C. Operations must include
+addition, subtraction, mul, div, modulo, power, square root.
+*/
